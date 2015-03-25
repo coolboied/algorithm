@@ -1,0 +1,11 @@
+case:result.txt AllCover:plt
+var:plt=num:1025-6553
+var:plt1=str:2-4-!@#$%^&*()
+var:ntw=enum:AA-bb/bb-cc/CC-DD
+SF1-2:::IPADDR=10.84.16.125,a={ntw}, b ={plt1};
+SF1-3:::IPADDR=10.84.16.125,a={ntw}, b ={plt1};
+SF1-4:::IPADDR=10.84.16.125,a={ntw}, b ={plt1};
+SF1-5:::IPADDR=10.84.16.125,a={ntw}, b ={plt1};
+SF1-6:::IPADDR=10.84.16.125,a={ntw}, b ={plt1};
+
+case:result-1.txt amount:100
